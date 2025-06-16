@@ -1,0 +1,14 @@
+{
+  "C_Cpp.default.compilerPath": "d:\\software\\mingw64\\bin\\gcc.exe",
+  "files.associations": {
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript",
+    "*.wxml": "wxml",
+    "*.json": "jsonc",
+    "*.vue": "vue",
+    "utils.h": "c",
+    "stdio.h": "c",
+    "stdlib.h": "c"
+  },
+}
